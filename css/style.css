@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2? family= Montserrat:wght@100 & familia = Raleway: peso @ 300; 800 &family= Roboto:ital,wght@0,100;1,100 & display=swap');
+body{
+	font-family: 'Raleway', sans-serif;
+	font-size: 14px;
+}
+header{
+	background-color: #FFFFFF;
+	font-family: 'Raleway', sans-serif;
+	font-size: 35px;
+	padding: 40px;
+}
+#hero{
+	align-content: center;
+	padding: 50px;
+}
+.hero{
+	padding: 40px;
+}
+.titulo{
+	font-family: 'Raleway', sans-serif;
+	margin-bottom: 40px;
+	margin-top: 70px;
+	background-color: #FFDA79;
+	border-radius: 8px;
+	width: 220px;
+	text-align: center;
+}
+.titulo1{
+	font-family: 'Raleway', sans-serif;
+	font-weight: 600px;
+	font-size: 60px;
+	margin-bottom: 40px;
+}
+.btn{
+	font-family: 'Raleway', sans-serif;
+	border-radius: 0px;
+}
+#about{
+	padding: 40px;
+	background-color: #cce4e4;
+}
+.tituloazul{
+	font-family: 'Raleway', sans-serif;
+	margin-bottom: 40px;
+	margin-top: 70px;
+	background-color: #9FF1F6;
+	border-radius: 8px;
+	width: 150px;
+	color: #17494d;
+}
+.titulo2{
+	font-family: 'Raleway', sans-serif;
+	font-size: 40px;
+	margin-bottom: 50px;
+	color: #17494d;
+}
+#worldwide{
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+	padding: 40px;
+}
+.worldwide{
+	text-align: center;
+	padding: 40px;
+}
+.titulo3{
+	font-family: 'Raleway', sans-serif;
+	margin-bottom: 40px;
+	margin-top: 70px;
+	background-color: #FFDA79;
+	border-radius: 8px;
+	width: 220px;
+	text-align: center;
+	margin-left: 40%;
+}
+#subscribe{
+	font-family: 'Raleway', sans-serif;
+	background-color: #d6baf5;
+	padding: 40px;
+}
+.titulo4{
+	font-family: 'Raleway', sans-serif;
+	margin-top: 10%;
+	font-size: 40px;
+}
+.form-control{
+	margin-top: 30%;
+	margin-left: 20%;
+	width: 90%;
+	color: #FFDA79;
+}
+.btn-Twilo{
+	background-color: #000000;
+	color: #ffff;
+	margin-top: 30%;
+	margin-left: 20%;
+}
+#footer{
+	padding: 20px;
+	
+}
+#footer-info{
+	background-color: #FFFFFF;
+	padding: 45px 0;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+#footer-copy{
+	background-color: #FFFFFF;
+	text-align: center;
+	padding: 20px 0;
+	color: #5d5d5d;
+	
+}
+.textito{
+	margin-top: 10%;
+	color: #5d5d5d;
+	text-align: center;
+}
+.lista{
+	text-align: center;
+	color: #5d5d5d;
+}
